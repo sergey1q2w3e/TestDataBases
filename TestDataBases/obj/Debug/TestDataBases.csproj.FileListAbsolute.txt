@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\bin\Debug\TestDataBases.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\App.g.cs
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases_MarkupCompile.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases_MarkupCompile.lref
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\bin\Debug\TestDataBases.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\bin\Debug\TestDataBases.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\MainWindow.baml
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases.g.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\TestDataBases.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\CreateTableForm.g.cs
+C:\Users\Admin\documents\visual studio 2015\Projects\TestDataBases\TestDataBases\obj\Debug\CreateTableForm.baml
